@@ -346,7 +346,7 @@ Need help? Here are your options:
 
 - 🐛 **Bug Reports** - [Create an issue](../../issues)
 - 💡 **Feature Requests** - [Submit a request](../../issues)
-- 📧 **Email Support** - [Contact us](mailto:support@example.com)
+- 📧 **Email Support** - [Contact us](mailto:ragiv5303721@gmail.com)
 - 📖 **Documentation** - [Read the docs](docs/)
 
 ---
